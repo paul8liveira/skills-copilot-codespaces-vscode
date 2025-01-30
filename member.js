@@ -1,4 +1,3 @@
-function skillsMenber()
 function skillsMember(name, skills) {
     this.name = name;
     this.skills = skills;
